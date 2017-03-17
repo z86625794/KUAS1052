@@ -9,7 +9,7 @@
 1102105319 蘇世賢.txt
 1102105333 謝承恩.txt https://github.com/sleepydog310/KUAS1052-1 
 1102105336張譯安.txt
-1102105337 許聖弘.txt
+1102105337 許聖弘.txt https://github.com/dazzlespot/work
 1102105338 楊玄華.txt
 1102105341林逸盛.txt
 1102105343 邱冠崴.txt
