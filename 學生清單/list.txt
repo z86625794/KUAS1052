@@ -6,7 +6,7 @@
 1102105307 謝炎璋.txt
 1102105316 詹英鴻.txt
 1102105317 潘彥君.txt
-1102105319 蘇世賢.txt
+1102105319 蘇世賢.txt https://github.com/shihsian/homework.git
 1102105333 謝承恩.txt https://github.com/sleepydog310/KUAS1052-1 
 1102105336張譯安.txt
 1102105338 楊玄華.txt
