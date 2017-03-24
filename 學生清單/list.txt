@@ -14,7 +14,7 @@
 1102105343 邱冠崴.txt
 1102105351 王得祐.txt https://github.com/d93511827/kuas105
 1102105355 葉晏菱.txt
-1102105356 陳宥均.txt
+1102105356 陳宥均.txt https://github.com/yjcchen/KUAS
 1103105301 黃靖瑋.txt
 1103105304 黃思賢.txt
 1103105305 廖華聖
